@@ -10,6 +10,12 @@
 
 ## Usage
 
+Add the following lines to your index.html :
+```
+<script type="text/javascript" src="{bower_directory}/angular-base64/angular-base64.js"></script>
+<script type="text/javascript" src="{bower_directory}/angular-webrtc/dist/js/ngWebRTC.js"></script>
+```
+
 This module provides a **$webrtc** service to handle your WebRTC interactions.
 
 Browser-related interactions have been wrapped to be as easy to use as possible, but you will probably **need at least a basic 
