@@ -1,0 +1,24 @@
+{
+  "name": "angular-webrtc",
+  "description": "AngularJS WebRTC Wrapper",
+  "main": "index.html",
+  "authors": [
+    "Jeremie Amsellem (lupin@lp1.eu)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "AngularJS",
+    "WebRTC"
+  ],
+  "homepage": "https://github.com/lupin012345/ngWebRTC#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-base64": "^2.0.5"
+  }
+}

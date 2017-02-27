@@ -1,0 +1,40 @@
+{
+  "name": "angular-webrtc",
+  "version": "1.0.1",
+  "description": "AngularJS WebRTC",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupin012345/ngWebRTC.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "WebRTC"
+  ],
+  "author": "Jeremie Amsellem (lupin@lp1.eu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupin012345/ngWebRTC/issues"
+  },
+  "homepage": "https://github.com/lupin012345/ngWebRTC#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bower": "0.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-htmlbuild": "^0.4.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-standard": "^8.0.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "ng-annotate": "^1.2.1",
+    "node-sass": "^3.11.2",
+    "source-map": "^0.5.6"
+  }
+}
