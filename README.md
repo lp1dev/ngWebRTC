@@ -16,6 +16,16 @@ Add the following lines to your index.html :
 <script type="text/javascript" src="{bower_directory}/angular-webrtc/dist/js/ngWebRTC.js"></script>
 ```
 
+And the following dependencies to your angular app : 
+
+```
+angular.module('app',
+  [
+    'base64',
+    'ngWebRTC'
+  ])
+```
+
 This module provides a **$webrtc** service to handle your WebRTC interactions.
 
 Browser-related interactions have been wrapped to be as easy to use as possible, but you will probably **need at least a basic 
