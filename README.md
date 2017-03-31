@@ -1,4 +1,4 @@
-#AngularJS WebRTC Module
+# ngWebRTC - AngularJS WebRTC Module
 
 ## Dependencies
 
@@ -6,7 +6,9 @@
 
 ## Setup
 
+
 ```bower install https://github.com/lp1dev/ngWebRTC.git```
+```npm install ngwebrtc```
 
 ## Usage
 
