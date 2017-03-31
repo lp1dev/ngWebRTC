@@ -7,7 +7,7 @@
 ## Setup
 
 
-```bower install https://github.com/lp1dev/ngWebRTC.git```
+```bower install ngwebrtc```
 
 ```npm install ngwebrtc```
 
