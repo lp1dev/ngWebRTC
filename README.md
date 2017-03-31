@@ -6,10 +6,13 @@
 
 ## Setup
 
+Using bower
 
-```bower install ngwebrtc```
+```bower install --save ngwebrtc```
 
-```npm install ngwebrtc```
+Using npm
+
+```npm install --save ngwebrtc```
 
 ## Usage
 
