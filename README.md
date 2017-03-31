@@ -8,6 +8,7 @@
 
 
 ```bower install https://github.com/lp1dev/ngWebRTC.git```
+
 ```npm install ngwebrtc```
 
 ## Usage
